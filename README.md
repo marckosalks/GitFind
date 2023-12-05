@@ -1,4 +1,4 @@
-## GIT FINDD
+## GIT FIND 🔭
 
 ### Projeto utilizando Next.js, TypeScript, TailWind e Fetch API na API do GITHUB!
 
