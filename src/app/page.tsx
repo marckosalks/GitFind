@@ -1,4 +1,4 @@
-import Home from "@/home/Home";
+import Home from "@/app/Home";
 import Container from "@/layout/Container";
 
 
